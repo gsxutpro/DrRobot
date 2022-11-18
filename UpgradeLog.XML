@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DrRobot">
+</Property><Property Name="Файл решения" Value="C:\Arduino\DrRobot\DrRobot\DrRobot.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Arduino\DrRobot\DrRobot\DrRobot.suo">
+</Property><Property Name="Date" Value="22 апреля 2011 г.">
+</Property><Property Name="Time" Value="20:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DrRobot.sln" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DrRobot.suo" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot.suo">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\DrRobot.csproj" Description="Успешно создана резервная копия файла проекта: C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\DrRobot.csproj">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\ArduinoCommands.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\ArduinoCommands.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Additional.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Additional.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Devices.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Devices.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Form1.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Program.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Program.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\TestForm.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\TestForm.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\TestForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\TestForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\app.config" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\app.config">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Form1.resx" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\TestForm.resx" Description="Успешно создана резервная копия файла C:\Arduino\DrRobot\DrRobot\Backup\DrRobot\TestForm.resx">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\DrRobot.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="DrRobot" Source="DrRobot\DrRobot.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DrRobot.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="DrRobot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrRobot" Source="DrRobot\DrRobot.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,60 @@
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.Form1.resources
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.Properties.Resources.resources
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.csproj.GenerateResource.Cache
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\bin\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\bin\Debug\DrRobot.pdb
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.pdb
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\bin\Debug\DrRobot.exe.config
+D:\users\e385597\My Documents\Visual Studio 2008\Projects\DrRobot\DrRobot\obj\Debug\DrRobot.TestForm.resources
+C:\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe.config
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.exe
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.pdb
+C:\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe
+C:\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.pdb
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Form1.resources
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Properties.Resources.resources
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.TestForm.resources
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.read.1.tlog
+C:\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.write.1.tlog
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe.config
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.pdb
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Form1.resources
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Properties.Resources.resources
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.TestForm.resources
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.read.1.tlog
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.write.1.tlog
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Загрузки\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.pdb
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe.config
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.exe
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.pdb
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.exe
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\bin\Debug\DrRobot.pdb
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Form1.resources
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.Properties.Resources.resources
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\DrRobot.TestForm.resources
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.read.1.tlog
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Михаил\Downloads\Arduino\Arduino\DrRobot\DrRobot\DrRobot\obj\Debug\ResGen.write.1.tlog
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\bin\Debug\DrRobot.exe.config
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\DrRobot.pdb
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\bin\Debug\DrRobot.exe
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\bin\Debug\DrRobot.pdb
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\DrRobot.Form1.resources
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\DrRobot.Properties.Resources.resources
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\DrRobot.TestForm.resources
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\ResGen.read.1.tlog
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\users\e385597\My Documents\Загрузки\DrRobot(1)\DrRobot\DrRobot\obj\Debug\ResGen.write.1.tlog
